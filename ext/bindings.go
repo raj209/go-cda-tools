@@ -3,7 +3,7 @@ package main
 import (
 	"C"
 
-	"github.com/projectcypress/cdatools/exporter"
+	"github.com/raj209/cdatools/exporter"
 	"github.com/projectcypress/cdatools/importer"
 )
 
