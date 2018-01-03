@@ -10,7 +10,7 @@ clean:
 install:
 
 dependencies:
-	go get -u github.com/jbowtie/gokogiri/xml github.com/pborman/uuid github.com/projectcypress/cdatools/...
+	go get -u github.com/jbowtie/gokogiri/xml github.com/pborman/uuid github.com/raj209/cdatools/... github.com/projectcypress/cdatools/...
 	bundle install
 
 

@@ -11,7 +11,6 @@
 
 
 /* Start of boilerplate cgo prologue.  */
-#line 1 "cgo-gcc-export-header-prolog"
 
 #ifndef GO_CGO_PROLOGUE_H
 #define GO_CGO_PROLOGUE_H
